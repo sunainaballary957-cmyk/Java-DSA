@@ -1,5 +1,4 @@
-# Java-DSA
-Data Structures and Algorithms practice in Java with LeetCode solutions and explanations.
+
 # Java DSA
 
 This repository contains my Data Structures and Algorithms practice in Java.
